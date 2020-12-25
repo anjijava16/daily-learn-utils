@@ -1,8 +1,8 @@
 Data Enginner Flow Using AWS
 ---------------------------------------------------------
-i. Sources
+1. Sources
        Weather Data ---> Save into Hive
        Flight Data ---> Save into Redshift
-ii. Sinks ---> RedShift
-iii. EMR For Spark process
-iv. Analaytics using AWS sagemaker 
+2. Sinks ---> RedShift
+3. EMR For Spark process
+4. Analaytics using AWS sagemaker 
