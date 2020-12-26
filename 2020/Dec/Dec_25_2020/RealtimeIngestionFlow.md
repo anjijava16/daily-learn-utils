@@ -14,3 +14,7 @@ The solution has six main categories.
    AWS Glue crawlers run every hour to update table definitions, and Athena views are built to compute the ad-to-order conversion.
 6. Data visualization – You use QuickSight to generate visualizations.
 
+Reference Links:
+------------------------------------------------------------
+1. URL : https://github.com/anjijava16/aws_kinesis_stream-utils
+
